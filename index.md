@@ -4,30 +4,30 @@
 
 ### Category Name 1 
 
-[Project 1 Double Exposure Effect](/sample_page)
+[Project 1 Double Exposure Effect]
 <img src="images/harrycc.jpg?raw=true"/>
 
 ---
-[Project 2 Liquid/Graffiti Style Image](/pdf/sample_presentation.pdf)
+[Project 2 Liquid/Graffiti Style Image]
 <img src="images/swirling.png?raw=true"/>
 
 ---
-[Project 3 A Poster Collage Design](http://example.com/)
+[Project 3 A Poster Collage Design]
 <img src="images/bella.jpg?raw=true"/>
 
 ---
 
-[Project 4 A Surreal Coffee Cup](http://example.com/)
+[Project 4 A Surreal Coffee Cup]
 <img src="images/coffee.png?raw=true"/>
 
 ---
 
-[Project 5 Fluid Gradient Cover Art](http://example.com/)
+[Project 5 Fluid Gradient Cover Art]
 <img src="images/abstract.jpg?raw=true"/>
 
 ---
 
-[Project 6 Pop Art](http://example.com/)
+[Project 6 Pop Art]
 <img src="images/popart.jpg?raw=true"/>
 
 ---
