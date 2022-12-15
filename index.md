@@ -2,32 +2,32 @@
 
 ---
 
-### Category Name 1 
+### Graphic Design Project
 
-[Project 1 Double Exposure Effect]
+[Project 1 Double Exposure Effect](/sample_page)
 <img src="images/harrycc.jpg?raw=true"/>
 
 ---
-[Project 2 Liquid/Graffiti Style Image]
+[Project 2 Liquid/Graffiti Style Image](/pdf/sample_presentation.pdf)
 <img src="images/swirling.png?raw=true"/>
 
 ---
-[Project 3 A Poster Collage Design]
+[Project 3 A Poster Collage Design](http://example.com/)
 <img src="images/bella.jpg?raw=true"/>
 
 ---
 
-[Project 4 A Surreal Coffee Cup]
+[Project 4 A Surreal Coffee Cup](http://example.com/)
 <img src="images/coffee.png?raw=true"/>
 
 ---
 
-[Project 5 Fluid Gradient Cover Art]
+[Project 5 Fluid Gradient Cover Art](http://example.com/)
 <img src="images/abstract.jpg?raw=true"/>
 
 ---
 
-[Project 6 Pop Art]
+[Project 6 Pop Art](http://example.com/)
 <img src="images/popart.jpg?raw=true"/>
 
 ---
@@ -41,8 +41,9 @@
 
 ---
 
+### My Midterm Project
 
-
+- [Midterm Project - E-commerce](https://www.w3spaces-preview.com/welquon/index.html)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
